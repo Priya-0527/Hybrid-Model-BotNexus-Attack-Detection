@@ -124,8 +124,8 @@ jupyter notebook Botnet_Detection_Model.ipynb
 📡 Connect with Cloud for Threat Feed Updates
 
 ## 👨‍💻 Developed By
-Lokesh Agarwal
-📬 lokeshagarwal2304@gmail.com
+Swathi Priya Pavalla
+📬 swathipriyapavalla@gmail.com
 🔗 GitHub
 💼 LinkedIn
 
