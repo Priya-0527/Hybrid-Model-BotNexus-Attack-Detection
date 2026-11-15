@@ -106,7 +106,7 @@ Always show details
 
 Copy
 # 1. Clone the repo
-git clone https://github.com/lokeshagarwal2304/Hybrid-Bot Nexus-Detection.git
+git clone https://github.com/Priya-0527/BotNexus-Hybrid-Attack-Detection.git
 
 # 2. Install dependencies
 pip install -r requirements.txt
